@@ -1,5 +1,8 @@
+// ignore_for_file: unused_element, unused_local_variable, deprecated_member_use
+
 import 'dart:async';
 import 'dart:io';
+// ignore: unused_import
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
@@ -280,7 +283,7 @@ class LiftdApp extends StatelessWidget {
             textStyle: GoogleFonts.spaceMono(fontWeight: FontWeight.w700),
             shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
           ),
-        ), dialogTheme: DialogThemeData(backgroundColor: LiftdColors.surface),
+        ), dialogTheme: const DialogThemeData(backgroundColor: LiftdColors.surface),
       ),
       home: const SplashScreen(),
     );

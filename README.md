@@ -19,7 +19,7 @@
    letter-spacing: 4px;
    background-color: black;
    margin-top: -20px;"
-   style="colour:#ff5a1f;">
+   align="center">
    
    minimal. focused. consistent.
 </p>

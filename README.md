@@ -24,6 +24,15 @@
 
 ---
 
+
+<h2 style="font-family:'Courier New', monospace;">📌 About</h2>
+
+<p style="font-family:'Courier New', monospace;">
+Liftd is a gym progress tracking application built to help users stay consistent, monitor workouts, and achieve fitness goals with a clean and focused experience.
+</p>
+
+---
+
 <h2 style="font-family:'Courier New', monospace;">🚀 Features</h2>
 
 <ul style="font-family:'Courier New', monospace;">
@@ -49,13 +58,8 @@
 
 ---
 
-<h2 style="font-family:'Courier New', monospace;">📌 About</h2>
 
-<p style="font-family:'Courier New', monospace;">
-Liftd is a gym progress tracking application built to help users stay consistent, monitor workouts, and achieve fitness goals with a clean and focused experience.
-</p>
 
----
 
 <h2 style="font-family:'Courier New', monospace;">🔮 Future Improvements</h2>
 

@@ -7,9 +7,7 @@
     color: white;
     background-color: black;
     padding: 20px;
-    letter-spacing: 2px;">
-    
-    liftd<span style="color:#ff5a1f;">.</span>
+    letter-spacing: 2px;">liftd<span style="color:#ff5a1f;">.</span>
 </h1>
 
 <p align="center"

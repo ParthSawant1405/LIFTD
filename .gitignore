@@ -49,3 +49,4 @@ android/local.properties
 *.jks
 *.keystore
 key.properties
+.vscode/

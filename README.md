@@ -1,5 +1,5 @@
 
-<h1 align="center" 
+<h1 align="left" 
     style="
     font-family: 'Courier New', monospace;
     font-size: 60px;

@@ -43,6 +43,8 @@ Liftd is a gym progress tracking application built to help users stay consistent
   <li>📅 View workout history</li>
   <li>📈 Monitor strength improvements over time</li>
   <li>🎯 Goal-oriented fitness tracking</li>
+  <li>📸 Progress photo tracking</li>
+  <li>🏋️ Pre-built gym plans for beginners and advanced users</li>
   <li>📱 Clean and minimal Android interface</li>
 </ul>
 
@@ -71,6 +73,19 @@ Liftd is a gym progress tracking application built to help users stay consistent
   <li>Progress analytics</li>
   <li>Nutrition tracking</li>
   <li>Community features</li>
+  <li>📤 Export workout history and fitness reports</li>
+  <li>🔔 Workout reminders and notifications</li>
+</ul>
+
+---
+
+<h2 style="font-family:'Courier New', monospace;">🏋️ currently working on.</h2>
+
+<ul style="font-family:'Courier New', monospace;">
+  <li>Fixing FPS drops when the keyboard pops up</li>
+<li>Adding more tracking data for calories and workout progress</li>
+<li>Introducing gym workout plans and fitness routines</li>
+  
 </ul>
 
 ---

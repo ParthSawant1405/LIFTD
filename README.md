@@ -18,7 +18,8 @@
    color: #8a8a8a;
    letter-spacing: 4px;
    background-color: black;
-   margin-top: -20px;">
+   margin-top: -20px;"
+   style="color:#ff5a1f;">
    
    minimal. focused. consistent.
 </p>

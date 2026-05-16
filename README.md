@@ -8,7 +8,7 @@
     background-color: black;
     padding: 20px;
     letter-spacing: 2px;">liftd
-<span style="color:#ff5a1f;">.</span>
+<span style="colour:#ff5a1f;">.</span>
 </h1>
 
 <p align="center"
@@ -19,7 +19,7 @@
    letter-spacing: 4px;
    background-color: black;
    margin-top: -20px;"
-   style="color:#ff5a1f;">
+   style="colour:#ff5a1f;">
    
    minimal. focused. consistent.
 </p>
